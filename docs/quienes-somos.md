@@ -35,7 +35,18 @@ Antes de nada, tienes que entender que la administración de este módulo se div
 Veamos a continuación cada uno de los bloques en detalle. 
 
 ### 1. Configuración
-En esta sección podrás controlar la información que muestras en tu página de equipo [ejemplo de página de equipo](https://devblinders.com/es/quienes-somos/)
+En esta sección podrás controlar la información que muestras en tu página de equipo ([ejemplo de página de equipo](https://devblinders.com/es/quienes-somos/))
+
+Los campos que podrás configurar son: 
+
+#### Nombre de página
+Por defecto, esta página se llama "Quiénes somos". Puedes dejarla tal y como está o puedes personalizarla a tu gusto, aunque te recomendamos que la dejes como está. 
+
+Si piensas personalizarla, ten en cuenta que es este bloque de texto en la página front del equipo:
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/nombre-quienes-somos-pagina.jpg)
+
+Es decir, lo que pongas en ese campo de la administración luego lo verás en el título principal de la página de equipo y en las migas de pan.
+
 
 ### 2. Etiquetas de experto
 ### 3. Especialidades
