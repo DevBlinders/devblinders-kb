@@ -4,6 +4,7 @@ title: Quiénes Somos
 ---
 
 La solución Nº1 para dejar claro la autoría de tu tienda online para PrestaShop como requiere el filtro E-A-T del algoritmo de Google.
+Esto es una prueba de Nacho
 
 # Instalación
 Una vez descargado el zip desde el area de clientes de devblinders tienes que instalar el módulo como cualquier otro módulo de PrestaShop
