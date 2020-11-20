@@ -51,8 +51,20 @@ Si piensas personalizarla, ten en cuenta que es este bloque de texto en la pági
 Es decir, lo que pongas en ese campo de la administración luego lo verás en el título principal de la página de equipo y en las migas de pan.
 
 #### 1.2 Etiquetas SEO
-Los siguientes dos campos, pertenecen al <title> y <meta name="description">, dos de las etiquetas SEO que más tienes que cuidar. 
+Los siguientes dos campos, pertenecen al <title> y <meta name="description">, dos de las etiquetas SEO que más tienes que cuidar. Hablamos de estos dos campos:
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/metas-quienes-somos.jpg)
 
+Si quieres saber más sobre cómo escribir un buen title y description, [puedes consultar este artículo de Google](https://developers.google.com/search/docs/advanced/appearance/good-titles-snippets). 
+
+:::tip
+
+En vez de escribir las etiquetas en la administración del PrestaShop, puedes primero escribirlo visualizándolo en un [simulador de snippet en la SERP como este de nuestros amigos de Sistrix](https://app.sistrix.com/en/serp-snippet-generator) y cuando veas que están con la dimensión correcta tanto para mobile como para desktop, lo copias y lo pegas en tu PrestaShop.
+
+:::
+
+
+  
+  
 #### 1.1 Nombre de página
 #### 1.1 Nombre de página
 
