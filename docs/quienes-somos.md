@@ -274,6 +274,10 @@ Tal y como hemos visto en la sección de "Configuración general", podrás poner
 
 ## Multi idioma
 
+Todos nuestros módulos están pensados para multi idioma. Como ya habrás visto, al lado de cada campo tienes el selector del idioma al que quieres que aplique ese contenido:
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/camposmultiidioma.jpg)
+
 ---
 
 ## Personalización CSS
@@ -281,6 +285,12 @@ Tal y como hemos visto en la sección de "Configuración general", podrás poner
 ---
 
 ## FAQ
+##### ¿Cómo elegir qué especializaciones crear?
+##### ¿Qué lógica seguir con las etiquetas de expertos?
+##### ¿Puedo poner sitios en los que ha salido el autor pero no enlazar al sitio donde sale?
+##### ¿El módulo cuenta con con marcado de datos?
+##### ¿Qué extensión deben de tener las descripciones?
+
 
 ---
 
