@@ -154,11 +154,32 @@ Desde aquí vas a poder crear, modificar, desactivar, eliminar y ordenar a tus a
 
 #### 4.1 Nombre y e-mail del autor
 
+Ambos campos son obligatorios.
+
 ![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/nombre-y-email.jpg)
 
 El e-mail no se mostrará visualmente, el cliente no tiene manera de saber el e-mail del autor. Pero el nombre si que sale visualmente, se ve en:
 
 ![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/nombre-front.jpg)
+
+
+#### 4.2 Cargo en la empresa
+
+Este campo también es obligatorio:
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/cargo-empresa-back.jpg)
+
+En la parte pública se visualiza en dos secciones: 
+
+**1 En la página de autor**
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/cargo-empresa-front.jpg)
+
+**2 En el listado de la página de autores **
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/cargo-empresa-front-listado.jpg)
+
+#### 4.3 Nº de colegiado
 
 ---
 
