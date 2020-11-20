@@ -35,6 +35,8 @@ Antes de nada, tienes que entender que la administración de este módulo se div
 Veamos a continuación cada uno de los bloques en detalle. 
 
 ### 1. Configuración
+En esta sección podrás controlar la información que muestras en tu página de equipo [ejemplo de página de equipo](https://devblinders.com/es/quienes-somos/)
+
 ### 2. Etiquetas de experto
 ### 3. Especialidades
 ### 4. Autores
