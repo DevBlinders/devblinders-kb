@@ -34,10 +34,10 @@ Antes de nada, tienes que entender que la administración de este módulo se div
 
 Veamos a continuación cada uno de los bloques en detalle. 
 
-### Configuración
-### Etiquetas de experto
-### Especialidades
-### Autores
+### 1. Configuración
+### 2. Etiquetas de experto
+### 3. Especialidades
+### 4. Autores
 
 ---
 
