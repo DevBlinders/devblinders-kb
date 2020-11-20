@@ -68,12 +68,27 @@ El siguiente campo es para poder customizar tu URL. Por defecto, se llamará "qu
 
 :::caution
 
-Mucho cuidado con cambiar la URL. Si editas este campo y Google ya conoce tu página de Quiénes somos, ten en cuenta que afectará tanto a la URL del equipo como a la de cada autor por individual. Si tienes que cambiarla, recuerda hacer una redirección 301 de las URLs antiguas a las nuevas.  [(más información sobre redirecciones 301)](https://developers.google.com/search/docs/advanced/crawling/301-redirects)
+Mucho cuidado con cambiar la URL. Si editas este campo y Google ya conoce tu página de Quiénes somos, ten en cuenta que afectará tanto a la URL del equipo como a la de cada autor por individual. Si tienes que cambiarla, recuerda hacer una redirección 301 de las URLs antiguas a las nuevas.
 
 :::
 
 
-#### 1.1 Nombre de página
+#### 1.4 Descripción corta
+La descripción corta en la parte pública será el bloque de texto que se verá encima del listado de autores. 
+
+En la administración corresponde a:
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/desc-corta-quienes-somos.jpg)
+
+Como ves, puedes editarlo de manera cómoda con el mismo editor HTML que tienes en fichas de producto o categorías. Podrás añadir contenido, estilos, imágenes, vídeos...
+
+En la parte pública, corresponde a este bloque: 
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/desc-corta-front.jpg)
+
+:::tip
+
+No metas mucho contenido en este bloque, piensa en lo largo que se verá en el móvil. Tienes que mostrar a tu equipo cuanto antes, si quieres meter una descripción más extensa usa el campo de "descripción larga". 
+
+:::
 
 
 ### 2. Etiquetas de experto
