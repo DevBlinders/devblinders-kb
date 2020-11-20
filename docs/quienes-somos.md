@@ -171,17 +171,106 @@ Este campo también es obligatorio:
 
 En la parte pública se visualiza en dos secciones: 
 
-**1 En la página de autor**
+**En la página de autor**
 
 ![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/cargo-empresa-front.jpg)
 
-**2 En el listado de la página de autores **
+**En el listado de la página de autores**
 
 ![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/cargo-empresa-front-listado.jpg)
 
+
 #### 4.3 Nº de colegiado
 
+Este campo es opcional. Si este autor tiene una carrera donde tenga un número de colegiado, rellena este campo con dicho número. 
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/numero-colegiado-backdd.jpg)
+
+En la parte pública, si lo rellenas se vería así:
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/colegiado-front.jpg)
+
+
+#### 4.4 Especialidades
+
+Ahora es el momento de seleccionar las especialidades que has creado antes que te interesen asociar a este autor. Ten en cuenta que para seleccionar más de una, tendrás que tener pulsada la letra Control y pinchar con el ratón encima de tantas especialidades como desees.
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/especialidades-back.jpg)
+
+En la parte pública, como ya hemos visto anteriormente, se verán así:
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/especialidades-front.jpg)
+
+
+#### 4.5 Etiquetas de experto
+
+Y ahora es cuando seleccionamos la etiqueta de experto al autor. Ten en cuenta que sólo se puede asociar una etiqueta de experto por autor aunque una etiqueta de experto puede estar asociada a más de un autor. 
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/etiqueta-experto-back.jpg)
+
+Como ya hemos visto, en la parte pública se verá en la página de autor así:
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/etiqueta-front.jpg)
+
+
+#### 4.6 Descripción corta y descripción larga
+
+Ninguno de estos dos campos son obligatorios, aunque te recomendamos que por lo menos rellenes la descripción corta. 
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/descripcioncortaylargaback.jpg)
+
+Visualmente, se verá así:
+
+**Descripción corta**
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/desccortafront.jpg)
+
+
+**Descripción larga**
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/desclarga-front.jpg)
+
+
+#### 4.7 Me has podido ver en
+
+Este campo tampoco es obligatorio. Está destinado a que pongas enlaces a entrevistas, charlas u otras páginas donde se hable del autor. 
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/mehasvistoenback.jpg)
+
+
+El estilo de la parte pública no es configurable desde la administración, pero tocando el código del módulo puedes cambiarlo fácilmente si quieres personalizarlo (aunque no es necesario).
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/mehaspodidoverfrontt.jpg)
+
+
+#### 4.8 Imagen del autor
+
+Aquí es donde podrás subir la imagen de tu autor. Trata de elegir una imagen profesional y de buena calidad.
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/imagen-back.jpg)
+
+Ten en cuenta que en la parte pública se verá tanto en la página de autor como en la página de equipo.
+
+
+#### 4.9 Redes sociales y web
+
+Estos campos tampoco son obligatorios, aunque te recomendamos que pongas todas las redes visibles y actualizadas del autor. Recuerda que la que pongas, tienes que poner la URL completa.
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/redessociales-back.jpg)
+
+En la parte pública se verá así:
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/redessocialesfront.jpg)
+
+
+#### 4.10 Etiquetas SEO y URL
+
+Tal y como hemos visto en la sección de "Configuración general", podrás poner el title y la description de cada autor. Además, podrás customizar su URL aunque te recomendamos del mismo modo que tengas cuidado tocando URL y si lo haces hagas una redirección 301 de la antigua URL a la nueva.
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/metasseoyurl.jpg)
+
 ---
+
 
 ## Multi idioma
 
