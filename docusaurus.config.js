@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Docs DevBlinders',
+  tagline: 'Documentación de módulos y temas de DevBlinders',
   url: 'https://docs.devblinders.com',
   baseUrl: '/devblinders-kb/',
   onBrokenLinks: 'throw',
@@ -9,10 +9,10 @@ module.exports = {
   projectName: 'devblinders-kb', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Docs DevBlinders',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Documentacion DevBlinders',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -76,7 +76,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Documentación DevBlinders | Todos los derechos reservados`,
     },
   },
   presets: [
