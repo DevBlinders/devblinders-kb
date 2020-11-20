@@ -61,11 +61,18 @@ Si quieres saber más sobre cómo escribir un buen title y description, [puedes 
 En vez de escribir las etiquetas en la administración del PrestaShop, puedes primero escribirlo visualizándolo en un [simulador de snippet en la SERP como este de nuestros amigos de Sistrix](https://app.sistrix.com/en/serp-snippet-generator) y cuando veas que están con la dimensión correcta tanto para mobile como para desktop, lo copias y lo pegas en tu PrestaShop.
 
 :::
+  
+#### 1.3 URL
+El siguiente campo es para poder customizar tu URL. Por defecto, se llamará "quienes-somos".
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/url-quienes-somos.jpg)
+
+:::caution
+
+Mucho cuidado con cambiar la URL. Si editas este campo y Google ya conoce tu página de Quiénes somos, ten en cuenta que afectará tanto a la URL del equipo como a la de cada autor por individual. Si tienes que cambiarla, recuerda hacer una redirección 301 de las URLs antiguas a las nuevas.  [(más información sobre redirecciones 301)](https://developers.google.com/search/docs/advanced/crawling/301-redirects)
+
+:::
 
 
-  
-  
-#### 1.1 Nombre de página
 #### 1.1 Nombre de página
 
 
