@@ -13,3 +13,7 @@ Una vez descargado el zip desde el area de clientes de devblinders tienes que in
 - Dirigete a Personalizar > Módulos > Module Manager
 - Pulsar el botón de arriba a la derecha llamado "Subir un módulo"
 - Seleccionar el zip descargado en tu ordenador
+
+#Video Youtube
+<iframe width="675" height="380" src="https://www.youtube.com/embed/_AQXQDjw7Y8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
