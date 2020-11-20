@@ -16,6 +16,10 @@ Una vez descargado el zip desde el area de clientes de DevBlinders tienes que in
 - Pulsar el botón de arriba a la derecha llamado "Subir un módulo".
 - Seleccionar el zip descargado en tu ordenador.
 
+Cuando tengas el módulo activo, encontrarás el acceso a la configuración debajo del todo en la columna de la izquierda:
+
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/quienes-somos-acceso.jpg)
+
 ---
 
 ## Administración
