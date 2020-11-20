@@ -1,7 +1,7 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://DevBlinders.github.io',
+  url: 'https://docs.devblinders.com',
   baseUrl: '/devblinders-kb/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
