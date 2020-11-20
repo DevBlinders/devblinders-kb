@@ -37,6 +37,9 @@ Veamos a continuación cada uno de los bloques en detalle.
 ### 1. Configuración
 En esta sección podrás controlar la información que muestras en tu página de equipo ([ejemplo de página de equipo](https://devblinders.com/es/quienes-somos/))
 
+Para acceder a la configuración, ve aquí:
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/configuracion-admin.jpg)
+
 Los campos que podrás configurar son: 
 
 #### 1.1 Nombre de página
@@ -92,6 +95,13 @@ No metas mucho contenido en este bloque, piensa en lo largo que se verá en el m
 
 
 ### 2. Etiquetas de experto
+
+Esta es una de las funcionalidades que más nos gusta, pero hay que tener en cuenta una serie de cosas para sacarle el máximo provecho. 
+
+Para acceder a las etiquetas de experto, ve aquí:
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/expert-tags-admin.jpg)
+
+
 ### 3. Especialidades
 ### 4. Autores
 
