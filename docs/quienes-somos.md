@@ -39,13 +39,22 @@ En esta sección podrás controlar la información que muestras en tu página de
 
 Los campos que podrás configurar son: 
 
-#### Nombre de página
-Por defecto, esta página se llama "Quiénes somos". Puedes dejarla tal y como está o puedes personalizarla a tu gusto, aunque te recomendamos que la dejes como está. 
+#### 1.1 Nombre de página
+Corresponde a este campo: 
+![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/admin-nombre-pagina.jpg)
+
+Por defecto, esta página la llamamos "Quiénes somos". Puedes dejarla tal y como está o puedes personalizarla a tu gusto, aunque te recomendamos que la dejes como está. 
 
 Si piensas personalizarla, ten en cuenta que es este bloque de texto en la página front del equipo:
 ![img](https://devblinders.com/img/cms/documentaciones/quienes-somos/nombre-quienes-somos-pagina.jpg)
 
 Es decir, lo que pongas en ese campo de la administración luego lo verás en el título principal de la página de equipo y en las migas de pan.
+
+#### 1.2 Etiquetas SEO
+Los siguientes dos campos, pertenecen al <title> y <meta name="description">, dos de las etiquetas SEO que más tienes que cuidar. 
+
+#### 1.1 Nombre de página
+#### 1.1 Nombre de página
 
 
 ### 2. Etiquetas de experto
