@@ -27,10 +27,10 @@ Veamos paso a paso la configuración de 0 a 100 del módulo y una serie de tips 
 
 Antes de nada, tienes que entender que la administración de este módulo se divide en: 
 
-- Configuración: es la sección desde donde puedes editar la página del equipo. 
-- Etiquetas de Experto: es donde podrás administrar las etiquetas de experto que posteriormente podrás asociar a tus autores. 
-- Especialidades: es donde podrás administrar las especialidades que posteriormente asociarás a tus autores. 
-- Autores: aquí podrás administar a tus autores.
+- **Configuración**: es la sección desde donde puedes editar la página del equipo. 
+- **Etiquetas de Experto**: es donde podrás administrar las etiquetas de experto que posteriormente podrás asociar a tus autores. 
+- **Especialidades**: es donde podrás administrar las especialidades que posteriormente asociarás a tus autores. 
+- **Autores**: aquí podrás administar a tus autores.
 
 Veamos a continuación cada uno de los bloques en detalle. 
 
