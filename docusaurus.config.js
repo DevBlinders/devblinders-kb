@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/devblinders-kb/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'neo2910', // Usually your GitHub org/user name.
+  organizationName: 'DevBlinders', // Usually your GitHub org/user name.
   projectName: 'devblinders-kb', // Usually your repo name.
   themeConfig: {
     navbar: {
