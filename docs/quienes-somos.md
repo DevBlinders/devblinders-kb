@@ -289,7 +289,7 @@ Todos nuestros módulos están pensados para multi idioma. Como ya habrás visto
 ##### ¿Qué lógica seguir con las etiquetas de expertos?
 ##### ¿Puedo poner sitios en los que ha salido el autor pero no enlazar al sitio donde sale?
 ##### ¿El módulo cuenta con con marcado de datos?
-##### ¿Qué extensión deben de tener las descripciones?
+##### ¿Qué extensión deben de tener las descripciones cortas y largas?
 
 
 ---
