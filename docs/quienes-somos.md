@@ -57,7 +57,7 @@ Si piensas personalizarla, ten en cuenta que es este bloque de texto en la pági
 Es decir, lo que pongas en ese campo de la administración luego lo verás en el título principal de la página de equipo y en las migas de pan.
 
 #### 1.2 Etiquetas SEO
-Los siguientes dos campos, pertenecen al <title> y <meta name="description">, dos de las etiquetas SEO que más tienes que cuidar. 
+Los siguientes dos campos pertenecen al y a la description, dos de las etiquetas SEO que más tienes que cuidar. 
 
 Hablamos de estos dos campos:
 
