@@ -2,7 +2,7 @@ module.exports = {
   title: 'Docs DevBlinders',
   tagline: 'Documentación de módulos y temas de DevBlinders',
   url: 'https://docs.devblinders.com',
-  baseUrl: '/devblinders-kb/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'DevBlinders', // Usually your GitHub org/user name.
@@ -20,12 +20,6 @@ module.exports = {
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
-        },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
         },
       ],
     },
