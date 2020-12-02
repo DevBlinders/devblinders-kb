@@ -31,7 +31,7 @@ En este paso podremos configurar nuestro robots.txt siguiendo las reglas que nec
 
 Identificamos 2 acciones para hacer:
 
-1. Restaurar versiones antiguas. En el caso de tener que publicar antiguas versiones lo podemos hacer seleccionando la versión que necesitemos y publicando 
+1. Restaurar versiones antiguas. En el caso de tener que publicar antiguas versiones lo podemos hacer seleccionando la versión que necesitemos y clicando en "Publicar nuevo robots.txt" se restauraría l versión seleccionada. 
 
 ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/restaurar-robotstxt.jpg)
 
