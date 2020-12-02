@@ -5,7 +5,6 @@ slug: devblinders-quienes-somos
 ---
 
 La solución Nº1 para dejar claro la autoría de tu tienda online para PrestaShop como requiere el filtro E-A-T del algoritmo de Google.
-Esto es una prueba de Nacho
 
 ---
 
