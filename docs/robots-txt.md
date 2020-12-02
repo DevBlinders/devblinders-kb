@@ -31,17 +31,17 @@ En este paso podremos configurar nuestro robots.txt siguiendo las reglas que nec
 
 Identificamos 2 acciones para hacer:
 
-1. Restaurar versiones antiguas. En el caso de tener que publicar antiguas versiones lo podemos hacer seleccionando la versión que necesitemos y clicando en "Publicar nuevo robots.txt" se restauraría l versión seleccionada. 
+**1. Restaurar versiones antiguas.** En el caso de tener que publicar antiguas versiones lo podemos hacer seleccionando la versión que necesitemos y clicando en "Publicar nuevo robots.txt" se restauraría l versión seleccionada. 
 
 ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/restaurar-robotstxt.jpg)
 
-2. Aplicar nuevas reglas.
+**2. Aplicar nuevas reglas.**
 
-  2.1 Aplicar nuevas reglas manualmente. Podemos escribir la nueva regla en el mismo archivo añadiendo una línea y seguidamente publicar la nueva versión generada.
+  **2.1 Aplicar nuevas reglas manualmente.** Podemos escribir la nueva regla en el mismo archivo añadiendo una línea y seguidamente publicar la nueva versión generada.
   
  ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/nueva-regla-manual.jpg)
  
- 2.2. Generar nuevas reglas. Disponemos de un generdor de reglas para ayudarnos en la sintaxis de ésta para el correto bloqueo o permiso de algún parámetro o useragent específico. 
+ **2.2. Generar nuevas reglas.** Disponemos de un generdor de reglas para ayudarnos en la sintaxis de ésta para el correto bloqueo o permiso de algún parámetro o useragent específico. 
  
  Tendremos que tener en cuenta qué acción queremos bloquear o permitir:
 
@@ -73,15 +73,13 @@ Si tienes dudas o necesitas recordar cómo escribir una regla tambieén tienes u
  
 ### Errores y Advertencias
 
-Los errores se identificarán cuando alguna regla no esté bien escrita con los comandos correctos. Cada error se identificará mediante la cruz roja en la fila del archivo robots.txt mal configurada.
+Los **errores** se identificarán cuando alguna regla no esté bien escrita con los comandos correctos. Cada error se identificará mediante la cruz roja en la fila del archivo robots.txt mal configurada.
 
 ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/errores-robotstxt.jpg)
 
-Las advertencias son los comandos mal escritos de la regla a generar, no son generadas como un error porque se puede interpretar la regla ya que la sintaxis está bien escrita. Por ejemplo, escribir mal "Disallow" o "Allow":
+Las **advertencias** son los comandos mal escritos de la regla a generar, no son generadas como un error porque se puede interpretar la regla ya que la sintaxis está bien escrita. Por ejemplo, escribir mal "Disallow" o "Allow":
 
 ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/advertencias-robotstxt.jpg)
-
-
  
  
  
