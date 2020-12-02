@@ -70,7 +70,7 @@ Este módulo también nos ayuda a saber si una URL ya está en Disallow o Allow 
 Si tienes dudas o necesitas recordar cómo escribir una regla tambieén tienes una leyenda con los significados de la sintaxis para generar nuevas reglas o interpretar las ya generadas.
 
 ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/leyenda-robotstxt-sintaxis.jpg)
-
+ 
 ### Errores y Advertencias
 
 Los errores se identificarán cuando alguna regla no esté bien escrita con los comandos correctos. Cada error se identificará mediante la cruz roja en la fila del archivo robots.txt mal configurada.
