@@ -82,8 +82,6 @@ Las advertencias son los comandos mal escritos de la regla a generar, no son gen
 ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/advertencias-robotstxt.jpg)
 
 
-
-
  
  
  
