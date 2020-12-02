@@ -31,7 +31,7 @@ En este paso podremos configurar nuestro robots.txt siguiendo las reglas que nec
 
 Identificamos 2 acciones para hacer:
 
-**1. Restaurar versiones antiguas.** En el caso de tener que publicar antiguas versiones lo podemos hacer seleccionando la versión que necesitemos y clicando en "Publicar nuevo robots.txt" se restauraría l versión seleccionada. 
+**1. Restaurar versiones antiguas.** En el caso de tener que publicar antiguas versiones lo podemos hacer seleccionando la versión que necesitemos y clicando en "Publicar nuevo robots.txt" se restauraría la versión seleccionada. 
 
 ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/restaurar-robotstxt.jpg)
 
@@ -77,7 +77,7 @@ Los **errores** se identificarán cuando alguna regla no esté bien escrita con 
 
 ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/errores-robotstxt.jpg)
 
-Las **advertencias** son los comandos mal escritos de la regla a generar, no son generadas como un error porque se puede interpretar la regla ya que la sintaxis está bien escrita. Por ejemplo, escribir mal "Disallow" o "Allow":
+Las **advertencias** son los comandos mal escritos de la regla a generar, no son generadas como un error porque se puede interpretar la regla ya que la sintaxis está bien escrita. Por ejemplo, escribir mal "Disallow" o "Allow": 
 
 ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/advertencias-robotstxt.jpg)
  
