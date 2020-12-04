@@ -1,5 +1,5 @@
 ---
-id: quienes-somos
+id: devblinders-quienes-somos
 title: Doc - DevBlinders Quiénes Somos
 slug: devblinders-quienes-somos
 ---
