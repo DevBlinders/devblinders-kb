@@ -57,7 +57,7 @@ Identificamos 2 acciones para hacer:
  
  Finalmente, escribimos el path o parámetro y clicamos a "Generar". Automáticamente se nos añadirá la nueva regla en el comentario al archivo del robots.txt perteneciente. En este caso, como hemos bloqueado el path que contiene "forum" para todos los User-Agents se ha añadido la regla en la última fila porque no tenemos ningún comentario hecho en el archivo para agrupar reglas.
 
- ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/mueva-regla-generada.jpg)
+![img](https://devblinders.com/img/cms/documentaciones/robotstxt/nueva-regla-generada.jpg)
  
 ### Probador de URLs
  
@@ -81,5 +81,17 @@ Las **advertencias** son los comandos mal escritos de la regla a generar, no son
 
 ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/advertencias-robotstxt.jpg)
  
+ ### Issues del módulo
  
+ Si en nuestro archivo robots.txt hemos añadido comentarios para identificar un conjunto de reglas como las señaladas:
+ 
+ ![img](https://devblinders.com/img/cms/documentaciones/robotstxt/comentarios-robotstxt.jpg)
+ 
+El módulo identificará como errores cuando los comentarios no incluyan espacio entre la almohadilla y el comentario:
+
+![img](https://devblinders.com/img/cms/documentaciones/robotstxt/comentarios-robotstxt.jpg)
+
+En las próxima actualizaciones se incluirá este cambio.
+ 
+  
  
