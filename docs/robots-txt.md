@@ -89,7 +89,7 @@ Las **advertencias** son los comandos mal escritos de la regla a generar, no son
  
 El módulo identificará como errores cuando los comentarios no incluyan espacio entre la almohadilla y el comentario:
 
-![img](https://devblinders.com/img/cms/documentaciones/robotstxt/comentarios-robotstxt.jpg)
+![img](https://devblinders.com/img/cms/documentaciones/robotstxt/comentarios-robotstxt_1.jpg)
 
 En las próxima actualizaciones se incluirá este cambio.
  
