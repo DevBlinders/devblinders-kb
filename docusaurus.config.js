@@ -9,7 +9,7 @@ module.exports = {
   projectName: 'devblinders-kb', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Docs DevBlinders',
+      title: '',
       logo: {
         alt: 'Documentacion DevBlinders',
         src: 'img/logo-devblinders.jpg',
