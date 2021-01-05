@@ -12,7 +12,7 @@ module.exports = {
       title: 'Docs DevBlinders',
       logo: {
         alt: 'Documentacion DevBlinders',
-        src: 'img/logo.png',
+        src: 'img/logo-devblinders.jpg',
       },
       items: [
         {
