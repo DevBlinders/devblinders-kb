@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    Modulos: ['quienes-somos'],
+    Modulos: ['devblinders-quienes-somos'],
   },
 };
