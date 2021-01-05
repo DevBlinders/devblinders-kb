@@ -9,11 +9,14 @@ module.exports = {
   projectName: 'devblinders-kb', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: '',
+      title: 'Docu',
       logo: {
         alt: 'Agencia de Expertos en PrestaShop',
         title: 'Programadores especialistas en PrestaShop',
         src: 'img/logo-devblinders-negro.png',
+        srcDark: 'img/logo-devblinders.png',
+        href: 'https://devblinders.com/es/',
+        target: '_blank',
       },
       items: [
         {
