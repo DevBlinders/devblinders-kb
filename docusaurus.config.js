@@ -13,7 +13,7 @@ module.exports = {
       logo: {
         alt: 'Agencia de Expertos en PrestaShop',
         title: 'Programadores especialistas en PrestaShop',
-        src: 'img/logo-devblinders.jpg',
+        src: 'img/logo-devblinders-negro.png',
       },
       items: [
         {
