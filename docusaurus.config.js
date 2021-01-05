@@ -11,7 +11,8 @@ module.exports = {
     navbar: {
       title: '',
       logo: {
-        alt: 'Documentacion DevBlinders',
+        alt: 'Agencia de Expertos en PrestaShop',
+        title: 'Programadores especialistas en PrestaShop',
         src: 'img/logo-devblinders.jpg',
       },
       items: [
