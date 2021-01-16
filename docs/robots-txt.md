@@ -1,7 +1,7 @@
 ---
 id: robots-txt
 title: Doc - DevBlinders Robots.txt
-slug: devblinders-robotstxt
+slug: robotstxt-para-prestashop
 ---
 
 Tu mejor aliado para optimizar tu robots.txt y mejorar tu crawl budget de forma rápida y segura.
