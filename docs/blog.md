@@ -1,3 +1,8 @@
+---
+id: devblinders-blog
+title: Doc - DevBlinders Blog
+slug: devblinders-blog
+---
 ##Introducción
 
 Módulo del blog para PrestaShop optimizado por SEO y E-A-T.
