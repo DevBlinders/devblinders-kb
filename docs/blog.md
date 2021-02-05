@@ -1,5 +1,7 @@
 ##Introducción
+
 Módulo del blog para PrestaShop optimizado por SEO y E-A-T.
+
 ##Instalación:
 
 Con el módulo del Blog te regalamos el módulo de Quienes somos. Cuando tengas los dos módulos descargados proceder a la instalación de los mismos. 
