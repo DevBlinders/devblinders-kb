@@ -3,11 +3,11 @@ id: devblinders-blog
 title: Doc - DevBlinders Blog
 slug: devblinders-blog
 ---
-##Introducción
+## Introducción
 
 Módulo del blog para PrestaShop optimizado por SEO y E-A-T.
 
-##Instalación:
+## Instalación:
 
 Con el módulo del Blog te regalamos el módulo de Quienes somos. Cuando tengas los dos módulos descargados proceder a la instalación de los mismos. 
 
@@ -22,13 +22,13 @@ Cuando tengas los dos módulos ya activos aparecerán en el menú de administrac
 
 ![img](https://devblinders.com/img/cms/menu-blog.png)
 
-##Configuración
+## Configuración
 
 Para poder proceder a ajustar los estilos así como diversas funcionalidades del Blog deberás ir a Configuración del blog. 
 
 Encontramos distintos apartados:
 
-###General: 
+### General: 
 
 En este apartado podrás configurar el nombre de la home del blog, así como añadir una descripción corta y una larga como campos de texto. 
 
@@ -44,19 +44,19 @@ A continuación, podrás elegir el número de artículos que se listan en la hom
 
 Una vez definidos estos valores, deberás guardar. 
 
-###SEO:
+### SEO:
 
 La configuración SEO del blog te permite modificar la URL amigable de la home del blog así como añadir los metadatos: title y description. 
 
 ![img](https://devblinders.com/img/cms/configuracion-seo-blog.png)
 
-###Sidebar:
+### Sidebar:
 
 Podrás configurar el número de artículos que se mostrarán en el sidebar dentro del bloque de los artículos más vistos, últimos posts y el número de autores. 
 
 ![img](https://devblinders.com/img/cms/configuracion-sidebar-blog.png)
 
-###Comentarios:
+### Comentarios:
 
 Podrás configurar si quieres permitir o no comentarios de los usuarios en los artículos del blog. También, podrás añadir un campo de texto para añadir correctamente un texto que haga referencia a la ley del Reglamento General de la Protección de Datos. 
 
@@ -68,7 +68,7 @@ Añade si necesitas un reCAPTCHA con clave pública o privada para que puedan in
 
 ![img](https://devblinders.com/img/cms/comentarios-publicos-blog.png)
 
-###Posts:
+### Posts:
 
 La configuración de los Posts hace referencia al listado de los posts en tipologías de página como la home del blog, categorías o autores. 
 
@@ -82,19 +82,19 @@ También puedes configurar el número de posts relacionados y números de artíc
 
 ![img](https://devblinders.com/img/cms/comentarios-publicos-blog.png)
 
-###Home PrestaShop:
+### Home PrestaShop:
 
 Podrás configurar también que en la home de tu eCommerce puedas listar artículos del blog con las lógicas de los últimos posts creados así como los artículos más leídos.
 
 ![img](https://devblinders.com/img/cms/configuracion-home-prestashop.png)
 
-###Sidebar PrestaShop:
+### Sidebar PrestaShop:
 
 Podrás configurar los post más leídos así como los últimos creados en el propio sidebar de tu eCommerce. 
 
 ![img](https://devblinders.com/img/cms/configuracion-sidebar-prestashop.png)
 
-##Cómo crear categorías
+## Cómo crear categorías
 
 Para crear categorías tendremos que acceder mediante el menú del backoffice donde se encuentra el blog y el apartado de Categorías. 
 
@@ -116,7 +116,7 @@ Añade los metadatos: title y description para mejorar sus resultados en los mot
 
 ![img](https://devblinders.com/img/cms/metadatos-categorias-blog.png)
 
-##Cómo crear un artículo
+## Cómo crear un artículo
 
 Para crear un artículo tendremos que acceder mediante el menú del backoffice donde se encuentra el blog y el apartado de Posts.
 
@@ -126,25 +126,25 @@ Para añadir un artículo nuevo deberás clicar en +:
 
 ![img](https://devblinders.com/img/cms/anadir-posts-blog.png)
 
-###Categoría
+### Categoría
 
 Deberás seleccionar la categoría que quieres que ese post esté asociado. Si quieres que se asocie en más de una categoría deberás mantener pulsado la tecla Ctrl y seleccionar las categorías que creas convenientes. 
 
 ![img](https://devblinders.com/img/cms/seleccionar-categorias-posts-blog.png)
 
-###Categoría principal y título
+### Categoría principal y título
 
 Seguidamente, deberás seleccionar la categoría principal del artículo y añadir el título del post. 
 
 ![img](https://devblinders.com/img/cms/seleccionar-categoria-principal-post-blog.png)
 
-#Descripción corta y larga:
+### Descripción corta y larga:
 
 En los siguientes campos de texto podrás añadir una descripción corta para que se vea debajo del título del artículo y en la descripción larga deberás añadir el cuerpo del artículo completo. 
 
 ![img](https://devblinders.com/img/cms/descripcion-corta-larga-posts-blog.png)
 
-###Carrusel de productos:
+### Carrusel de productos:
 
 En la descripción larga del artículo podrás añadir a través del código fuente con el siguiente shortcode:
 
@@ -168,7 +168,7 @@ Descendente: way=desc
 
 Y el número (num) de productos a mostrar en el carrusel: num=8
 
-###Listar un único producto:
+### Listar un único producto:
 
 Si no quieres mostrar un carrusel de productos porque necesitas sólo listar un producto específico deberás usar el shortcode:
 
@@ -176,25 +176,25 @@ Si no quieres mostrar un carrusel de productos porque necesitas sólo listar un 
 
 Simplemente, poniendo la id del producto que corresponda ya se listará un único producto.
 
-###Imagen principal
+### Imagen principal
 
 Para mostrar la imagen destacada o principal del artículo deberas subir la imagen desde el selector:
 
 ![img](https://devblinders.com/img/cms/imagen-principal-articulo-blog.png)
 
-###Meta datos y URL amigable
+### Meta datos y URL amigable
 
 Podrás añadir el title y la description así como la url amigable del artículo:
 
 ![img](https://devblinders.com/img/cms/metadatos-articulos-blog.png)
 
-###Autor
+### Autor
 
 En cada artículo deberás seleccionar el autor del post entre los autores que tengas dados de alta en el módulo de Quienes Somos. 
 
 ![img](https://devblinders.com/img/cms/autores-articulos-blog.png)
 
-##Comentarios:
+## Comentarios:
 
 Todos los comentarios requieren de una aprobación previa para que se muestren públicamente. Podrás gestionar todos los comentarios nuevos y antiguos desde el apartado Comentarios:
 
