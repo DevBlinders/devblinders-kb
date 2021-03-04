@@ -26,9 +26,9 @@ Recuerda que con la instalación del theme, además se te auto-instalarán los s
 - DB Rich Snippets (Rich Snippets generales)
 
 
-##Setup
+## Setup
 
-###Configuración inicial
+### Configuración inicial
 
 #### DB Contact Info
 
@@ -62,6 +62,8 @@ Deberás incluir las IDs de las marcas separadas con comas:
 
 Para saber qué IDs tienen las marcas deberás ir a Catálogo > Marcas y Proveedores:
 ![img](https://devblinders.com/img/cms/id-marcas.jpg)
+
+### Configuración General Productos
 
 
 
