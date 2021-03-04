@@ -26,3 +26,16 @@ Recuerda que con la instalación del theme, además se te auto-instalarán los s
 - DB Rich Snippets (Rich Snippets generales)
 
 
+##Setup
+
+###Configuración inicial
+
+#### DB Contact Info
+
+Lo primero es poner correctamente los datos de tienda, para ello vamos a configurar el módulo de "DB Contact Info", ve a: 
+Personalizar > Módulos > Gestor de Módulos > DB Contact Info > Configurar
+
+Si lo has hecho bien, debes de ver esto:
+![img](https://devblinders.com/img/cms/documentaciones/classicblinders/contact-info.jpg)
+
+
