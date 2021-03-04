@@ -38,4 +38,34 @@ Personalizar > Módulos > Gestor de Módulos > DB Contact Info > Configurar
 Si lo has hecho bien, debes de ver esto:
 ![img](https://devblinders.com/img/cms/documentaciones/classicblinders/contact-info.jpg)
 
+#### DB Home Categories
+
+Para poder seleccionar las categorías que se quiera visualizar en la home tendremos que seleccionarlas en el árbol web que se muestra en la configuración del módulo "DB Home Categories":
+Personalizar > Módulos > Gestor de Módulos > DB Home Categories > Configurar
+
+![img](https://devblinders.com/img/cms/documentaciones/classicblinders/contact-info.jpg)
+
+#### DB Free Shipping
+
+Para personalizar el envío gratis en función de un mínimo de pedido, si lo quieres mostrar en los productos o en categorías deberás acceder a la configuración del módulo "DB Free Shipping":
+Personalizar > Módulos > Gestor de Módulos > DB Free Shipping > Configurar
+
+![img](https://devblinders.com/img/cms/db-free-shipping.jpg)
+
+#### DB Brand Slider
+
+Selecciona las marcas que quieres incluir en el carrusel de principales marcas de la home a través del módulo "DB Brand Slider". Para poder acceder a la configuración ir a:
+Personalizar > Módulos > Gestor de Módulos > DB Brand Slider > Configurar
+
+Deberás incluir las IDs de las marcas separadas con comas: 
+![img](https://devblinders.com/img/cms/db-brand-slider.jpg)
+
+Para saber qué IDs tienen las marcas deberás ir a Catálogo > Marcas y Proveedores:
+![img](https://devblinders.com/img/cms/id-marcas.jpg)
+
+
+
+
+
+
 
