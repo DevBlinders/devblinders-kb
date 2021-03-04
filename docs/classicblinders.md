@@ -68,13 +68,13 @@ Para saber qué IDs tienen las marcas deberás ir a Catálogo > Marcas y Proveed
 Para configurar aspectos generales de los productos lo podrás hacer mediante Configurar > Parámetros de la tienda > Configuración de Productos. 
 
 Desde aquí podrás especificar el número de días en que un producto se considera "novedad", el tamaño máximo de la descripción corta, especificar el descuento mediante producto o combinaciones, si necesitas forzar la actualización de las URLs amigables y. por último, si quieres activar nuevos productos de manera predeterminada.
-[img](https://devblinders.com/img/cms/configuracion-de-productos.jpg)
+![img](https://devblinders.com/img/cms/configuracion-de-productos.jpg)
 
 ### Configuración Stock de Productos
 
 Si queremos editar las etiquetas que se muestran cuando un producto no tiene stock o hay stock, incluso el plazo de entrega de los mismos debes ir a Configurar > Parámetros de la tienda > Configuración de Productos
 
-[img](https://devblinders.com/img/cms/stock-de-producto.jpg)
+![img](https://devblinders.com/img/cms/stock-de-producto.jpg)
 
 
 
