@@ -76,5 +76,11 @@ Si queremos editar las etiquetas que se muestran cuando un producto no tiene sto
 
 ![img](https://devblinders.com/img/cms/stock-de-producto.jpg)
 
+### Configuración de las Paginaciones
+
+Para editar el número de productos que se listan antes de las paginaciones podrás hacerlo mediante: Configurar > Parámetros de la tienda > Configuración de Productos
+
+![img](https://devblinders.com/img/cms/paginaciones.png)
+
 
 
