@@ -43,7 +43,7 @@ Si lo has hecho bien, debes de ver esto:
 Para poder seleccionar las categorías que se quiera visualizar en la home tendremos que seleccionarlas en el árbol web que se muestra en la configuración del módulo "DB Home Categories":
 Personalizar > Módulos > Gestor de Módulos > DB Home Categories > Configurar
 
-![img](https://devblinders.com/img/cms/documentaciones/classicblinders/contact-info.jpg)
+![img](https://devblinders.com/img/cms/DB-Home-Categories.jpg)
 
 #### DB Free Shipping
 
