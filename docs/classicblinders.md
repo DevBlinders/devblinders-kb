@@ -82,5 +82,20 @@ Para editar el número de productos que se listan antes de las paginaciones podr
 
 ![img](https://devblinders.com/img/cms/paginaciones.png)
 
+### Configuración Footer
 
+Para editar los enlaces que queremos poner en la parte de "Nuestra empresa" has de ir a : Personalizar > Diseño > Link Widget
 
+![img](https://devblinders.com/img/cms/link-widget.jpg)
+
+En la configuración podrás editar el nombre del bloque, las páginas a enlazar, creadas predeterminadas o personalizadas:
+
+![img](https://devblinders.com/img/cms/editar-link-widget.jpg)
+
+El bloque de "Su cuenta" pertenece al módulo por defecto de PrestaShop. Son enlaces por defecto que se ponen del apartado del área de cliente pero mediante el módulo "DB Ofuscador" encripta los enlaces para no mal distribuir la autoridad. 
+
+![img](https://devblinders.com/img/cms/su-cuenta.jpg)
+
+![img](https://devblinders.com/img/cms/bloque-mi-cuenta.jpg)
+
+![img](https://devblinders.com/img/cms/db-ofuscador.jpg)
